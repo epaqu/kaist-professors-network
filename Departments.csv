@@ -1,0 +1,519 @@
+source,target,weight
+Computer Systems,Computer Science,1
+Operations Research,Management Engineering,1
+Operations Research,Electrical Engineering,1
+Operations Research,Technology Management,1
+Animal Husbandry,Animal Husbandry,1
+Animal Husbandry,Biology,1
+Civil Engineering,Civil Engineering,36
+Civil Engineering,Management Sciences,1
+Civil Engineering,Mechanical Engineering,1
+Architectural Engineering,Structural Engineering,1
+Architecture,Culture Technology,1
+Management Engineering,Management Engineering,1
+Management Sciences,Management Engineering,4
+Management Sciences,Management Sciences,3
+Management Sciences,Management Informatics,1
+Management Sciences,Mathematics,1
+Management Sciences,Accounting Information System,1
+Management Sciences,Technology Management,1
+Management Informatics,Management Engineering,3
+Business Management,Management Engineering,17
+Business Management,Business Management,28
+Business Management,Economics,1
+Business Management,Advertisement,1
+Business Management,Finance,4
+Business Management,Marketing,1
+Business Management,Industrial Engineering,2
+Business Management,Mathematics,1
+Business Management,Psychology,1
+Business Management,Financial Management,2
+Business Management,Statistics,1
+Business Management,Accounting,2
+Business Management,Technology Management,5
+Business Management,Industriral and Systems Engineering,1
+Economic Management,Business Management,1
+Economics,Management Engineering,8
+Economics,Management Sciences,1
+Economics,Business Management,3
+Economics,Economics,15
+Economics,Theoretical Economics,1
+Economics,Organization Studies,1
+Economics,Technology Management,8
+Economics,Industriral and Systems Engineering,1
+Computational Statistics,Computational Statistics,2
+Computational Statistics,Computer Science,1
+Computational Statistics,Electronic Computer Science,2
+Computational Statistics,Information Engineering,1
+Computational Statistics,Statistics,1
+Ancinet Art History,Art History,1
+Macromolecule Engineering,Biochemical Engineering,1
+Macromolecular Science,Biochemical Engineering,1
+Macromolecular Chemistry,Chemistry,1
+Solid Physics,Materials Physics,1
+Engineering,Computer Science,1
+Engineering System Architecture,Mechanical Engineering,1
+Science Education,Chemistry,1
+"Science, Technology and Policy",Technology Management,1
+"Science, Technology and Society",Science  Technology and Policy,1
+Science History,Science  Technology and Policy,1
+Science History,Science History,1
+Science History,Humanities,1
+Science History and Philosophy,Science History and Philosophy,1
+Science History and Philosophy,Philosophy,1
+Advertisement,Marketing,1
+Optics,Optics,1
+Optics,Physics,1
+Optics,Electrical Engineering,1
+Structural Engineering,Civil Engineering,2
+Structural Engineering,Structural Engineering,2
+Korean History,Korean History,2
+Korean History,Humanities,1
+Korean Education,Korean Literature,1
+Korean Literature,Korean Literature,5
+Korean Literature,Humanities,3
+International Economics,Management Sciences,1
+International Economics,Economics,1
+International Relations,Politics,1
+Metal Engineering,Metal Engineering,10
+Metal Engineering,Medical Engineering,1
+Metal Engineering,Materials Science,13
+Metal Materials Science,Materials Science,3
+Finance,Management Engineering,4
+Finance,Finance,1
+Mechanical Engineering,Civil Engineering,2
+Mechanical Engineering,Engineering System Architecture,1
+Mechanical Engineering,Mechanical Engineering,127
+Mechanical Engineering,Technology Policy,1
+Mechanical Engineering,Industrial Engineering,3
+Mechanical Engineering,Production Engineering,2
+Mechanical Engineering,Welding Engineering,1
+Mechanical Engineering,Nuclear Quantum Engineering,1
+Mechanical Engineering,Applied Dynamics,1
+Mechanical Engineering,Medical Engineering,1
+Mechanical Engineering,Computer Science,2
+Mechanical Engineering,Electronic Engineering,1
+Mechanical Engineering,Electronic Computer Engineering,1
+Mechanical Engineering,Aeronautical Engineering,1
+Mechanical Engineering,Aerospace Engineering,2
+Mechanical Engineering,Industriral and Systems Engineering,2
+Mechanical Engineering,Green Transportation,3
+Mechanical Engineering,Bio and Brain Engineering,3
+Mechanical Architecture,Mechanical Engineering,3
+Mechanical Architecture,Mechanical Architecture,2
+Mechanical Architecture,Electrical Engineering,1
+Industrial Strategy,Science  Technology and Policy,1
+Technology Policy,Aerospace Engineering,1
+Technology Policy,Technology Management,1
+Geometry,Mathematics,1
+Agricultural Engineering,Structural Engineering,1
+Agriculture,Biochemistry,1
+Agricultural Chemistry,Agricultural Chemistry,1
+Agricultural Chemistry,Health Science,1
+Agricultural Chemistry,Biological Engineering,1
+Agricultural Chemistry,Environment Engineering,1
+Agricultural Chemistry,Accounting,1
+German Literature,German Literature,2
+German Literature,Humanities,1
+Animal Resources Science,Molecular Biology,1
+Zoology,Zoology,1
+Zoology,Biology,1
+Zoology,Cytology,1
+Dynamics,Mechanical Engineering,1
+Design,Design,3
+Design,Industrial Design,5
+Marketing,Management Engineering,2
+Marketing,Marketing,1
+Marketing,Technology Management,1
+Mass Communication,Management Engineering,1
+Immunology,Immunology,1
+Immunology,Biology,1
+Immunology,Medical Engineering,3
+Inorganic Materials Science,Inorganic Materials Science,1
+Inorganic Materials Science,Materials Science,4
+International Trade,Industrial Strategy,1
+Physics Education,Physics,1
+Physical Biochemistry,Physical Biochemistry,1
+Physical Biochemistry,Bio and Brain Engineering,1
+Physics,Optics,2
+Physics,Mechanical Engineering,2
+Physics,Physics,96
+Physics,Biophysics,1
+Physics,Biology,1
+Physics,Mathematics,1
+Physics,Nuclear Quantum Engineering,1
+Physics,Applied Physics,3
+Physics,Materials Science,1
+Physics,Electrical Engineering,2
+Physics,Electronic Engineering,2
+Physics,Astrophysics,1
+Physics,Culture Technology,1
+Physics,Bio and Brain Engineering,3
+Physics,Nanotechnology,2
+Physics,EEWS,2
+Physical Chemistry,Physical Chemistry,2
+Physical Chemistry,Chemistry,4
+Americanology,Filmologie,1
+Microbiology,Microbiology,7
+Microbiology,Molecular Biology,1
+Microbiology,Biology,3
+Microbiology,Genetic Engineering,1
+Art History,Art History,1
+Art History,Humanities,1
+Semiconductor Engineerirng,Semiconductor Engineerirng,1
+Semiconductor Engineerirng,Electrical Engineering,1
+Broadcasting,Management Engineering,1
+Health Science,Science History,1
+Analytical Chemistry,Analytical Chemistry,1
+Analytical Chemistry,Chemistry,1
+Molecular Biology,Physical Biochemistry,1
+Molecular Biology,Biology,4
+Molecular Biology,Biochemistry,1
+Molecular Biology,Medical Engineering,2
+Photography,Imaging Engineering,1
+History,History,2
+History,Psychology,1
+History,Humanities,1
+Social Welfare,Science  Technology and Policy,1
+Social Welfare,Social Welfare,1
+Sociology,Business Management,1
+Sociology,Sociology,2
+Sociology,Humanities,1
+Organizational Psychology,Business Management,1
+Industrial Economics,Management Engineering,1
+Industrial Engineering,Operations Research,2
+Industrial Engineering,Management Engineering,1
+Industrial Engineering,Management Sciences,3
+Industrial Engineering,Management Informatics,2
+Industrial Engineering,Business Management,3
+Industrial Engineering,Marketing,1
+Industrial Engineering,Industrial Economics,1
+Industrial Engineering,Industrial Engineering,28
+Industrial Engineering,Industrial Design,1
+Industrial Engineering,System Engineering,1
+Industrial Engineering,Computer Science,1
+Industrial Engineering,Accounting,1
+Industrial Engineering,Technology Management,4
+Industrial Engineering,Industriral and Systems Engineering,7
+Industrial Engineering,Knowledge Service Engineering,1
+Industrial Design,Design,4
+Industrial Design,Industrial Design,13
+Industrial Design,Psychology,1
+Industrial Psychology,Organizational Psychology,1
+Physiology,Physiology,1
+Physiology,Bio and Brain Engineering,1
+Biological Engineering,Biological Engineering,4
+Biological Engineering,Biochemical Engineering,1
+Biological Engineering,Biology,5
+Biological Engineering,Pharmacy,1
+Biological Engineering,Materials Science,1
+Biological Engineering,Chemistry,1
+Biological Engineering,Chemical Engineering,2
+Biological Engineering,Bio and Brain Engineering,1
+Biology Education,Biology,2
+Biochemical Engineering,Management Engineering,1
+Biochemical Engineering,Biochemical Engineering,3
+Biochemical Engineering,Biology,2
+Biochemical Engineering,Nanotechnology,1
+Biophysics,Chemistry,1
+Biophysical Chemistry,Biochemistry,1
+Biology,Immunology,1
+Biology,Molecular Biology,1
+Biology,Biological Engineering,3
+Biology,Biology,28
+Biology,Biochemistry,1
+Biology,Neuroscience,2
+Biology,Pharmacology,1
+Biology,Genetic Engineering,1
+Biology,Medical Engineering,4
+Biology,Electrical Engineering,1
+Biology,Bio and Brain Engineering,1
+Biology,Nanotechnology,1
+Production Engineering,Mechanical Engineering,2
+Production Engineering,Precision Engineering,1
+Biochemistry,Social Welfare,1
+Biochemistry,Biology,5
+Biochemistry,Biochemistry,3
+Biochemistry,Medical Engineering,2
+Biochemistry,Chemistry,3
+Textile Engineering,Chemistry,1
+Ceramic Engineering,Ceramic Engineering,2
+Ceramic Engineering,Materials Science,4
+Cytology,Molecular Biology,1
+Customer Lifestyle,Information Engineering,1
+Veterinary Medicine,Veterinary Medicine,2
+Veterinary Medicine,Medical Engineering,1
+Mathematics,Management Engineering,1
+Mathematics,Business Management,1
+Mathematics,Economics,2
+Mathematics,Physics,1
+Mathematics,Mathematics,81
+Mathematics,Electrical Engineering,1
+Mathematics,Computer Science,5
+Mathematics,Informatics,1
+Mathematics,Statistics,1
+Mathematics,Accounting,1
+System Engineering,Management Engineering,1
+Botany,Biology,1
+Food Engineering,Biological Engineering,1
+Food Engineering,Biochemistry,1
+Food Engineering,Food Engineering,2
+Food Engineering,Food Microbiology,1
+Food Engineering,Food Biotechnology,1
+Food Microbiology,Biology,1
+Food Microbiology,Food Microbiology,1
+Food Biotechnology,Immunology,2
+Food Biotechnology,Biological Engineering,1
+Neuroscience,Biology,1
+Neuroscience,Neuroscience,2
+Neuroscience,Nuclear Quantum Engineering,1
+Neuroscience,Bio and Brain Engineering,1
+Journalism,Broadcasting,1
+Journalism,Journalism,1
+Signal Processing,Electrical Engineering,1
+Psychology,Management Engineering,1
+Psychology,Business Management,1
+Psychology,Industrial Design,1
+Psychology,Psychology,2
+Psychology,Humanities,1
+Pharmacology,Biology,1
+Pharmacology,Pharmacology,1
+Pharmacy,Immunology,1
+Pharmacy,Biological Engineering,1
+Pharmacy,Biology,1
+Pharmacy,Pharmacy,2
+Pharmacy,Chemistry,1
+Combustion,Aerospace Engineering,1
+English,Computer Science,1
+English Education,Politics,1
+English Literature,Business Management,1
+English Literature,English Literature,6
+English Literature,Humanities,3
+Filmologie,Filmologie,1
+Filmologie,Humanities,1
+Political Diplomacy,Computer Science,1
+Welding Engineering,Mechanical Engineering,1
+Space Engineerring,Space Engineerring,2
+Space Engineerring,Aerospace Engineering,1
+Nuclear Engineering,Mechanical Engineering,1
+Nuclear Engineering,Physics,2
+Nuclear Engineering,Neuroscience,1
+Nuclear Engineering,Nuclear Engineering,20
+Nuclear Engineering,Nuclear Quantum Engineering,11
+Nuclear Engineering,Applied Physics,1
+Nuclear Engineering,Theory,1
+Nuclear Quantum Engineering,Nuclear Quantum Engineering,4
+Genetic Engineering,Molecular Biology,1
+Genetic Engineering,Biology,2
+Genetic Engineering,Genetic Engineering,1
+Fluid Dynamics,Combustion,1
+Fluid Dynamics,Fluid Dynamics,1
+Music,Culture Technology,1
+Applied Physics,Solid Physics,1
+Applied Physics,Mechanical Engineering,1
+Applied Physics,Physics,1
+Applied Physics,Applied Physics,1
+Applied Physics,Materials Science,1
+Applied Physics,Computer Science,1
+Applied Physics,Nanotechnology,2
+Applied Mathematics,Industrial Engineering,1
+Applied Mathematics,Mathematics,1
+Applied Mathematics,Statistics,1
+Applied Dynamics,Mechanical Engineering,1
+Applied Electronic Engineering,Electrical Engineering,1
+Applied Chemistrry,Applied Chemistrry,1
+Applied Chemistrry,Chemical Engineering,1
+Medical Engineering,Physics,1
+Medical Engineering,Medical Engineering,1
+Medical Engineering,Materials Science,1
+Medicine,Physiology,1
+Medicine,Biology,1
+Medicine,Biochemistry,2
+Medicine,Medical Engineering,4
+Medicine,Medicine,12
+Medicine,Bio and Brain Engineering,1
+Theory,Nuclear Quantum Engineering,1
+Theoretical Economics,Economics,1
+Imaging Engineering,Computer Science,1
+Artificial Intelligence,Computer Science,1
+Anthropology,Science  Technology and Policy,1
+Anthropology,Anthropology,4
+Anthropology,Humanities,1
+Natural Sciences,Mathematics,1
+Resource Science,Chemical Engineering,1
+Materials Science,Economics,1
+Materials Science,Metal Materials Science,1
+Materials Science,Mechanical Engineering,1
+Materials Science,Nuclear Quantum Engineering,2
+Materials Science,Applied Physics,1
+Materials Science,Materials Science,46
+Materials Science,Electrical Engineering,2
+Materials Science,Electronic Materials Science,1
+Materials Science,Bio and Brain Engineering,1
+Materials Science,EEWS,4
+Materials Physics,Physics,1
+Financial Management,Technology Management,1
+Electrical Computer Science,Mechanical Engineering,1
+Electrical Computer Science,Physics,1
+Electrical Computer Science,Electrical Computer Science,5
+Electrical Computer Science,Electrical Engineering,5
+Electrical Computer Science,Bio and Brain Engineering,1
+Electrical Engineering,Electrical Engineering,1
+Computer Science,Civil Engineering,1
+Computer Science,Management Engineering,1
+Computer Science,Economics,1
+Computer Science,Engineering,1
+Computer Science,Mechanical Engineering,1
+Computer Science,Signal Processing,1
+Computer Science,Artificial Intelligence,1
+Computer Science,Electrical Computer Science,1
+Computer Science,Electrical Engineering,6
+Computer Science,Computer Science,92
+Computer Science,Electronic Engineering,1
+Computer Science,Information Engineering,1
+Computer Science,Information and Communications,1
+Computer Science,Culture Technology,4
+Computer Science,Industriral and Systems Engineering,2
+Computer Science,Bio and Brain Engineering,2
+Computer Science,Knowledge Service Engineering,4
+Electronic Computer Science,Electrical Engineering,2
+Electronic Computer Science,Computer Science,4
+Electronic Computer Science,Electronic Computer Science,2
+Electronic Computer Science,Electronic Engineering,1
+Electronic Engineering,Computer Systems,1
+Electronic Engineering,Operations Research,1
+Electronic Engineering,Civil Engineering,1
+Electronic Engineering,Management Sciences,1
+Electronic Engineering,Science  Technology and Society,2
+Electronic Engineering,Mechanical Engineering,2
+Electronic Engineering,Geometry,1
+Electronic Engineering,Biochemical Engineering,1
+Electronic Engineering,Nuclear Engineering,1
+Electronic Engineering,Nuclear Quantum Engineering,1
+Electronic Engineering,Music,1
+Electronic Engineering,Applied Physics,1
+Electronic Engineering,Applied Electronic Engineering,1
+Electronic Engineering,Materials Science,1
+Electronic Engineering,Electrical Computer Science,5
+Electronic Engineering,Electrical Engineering,54
+Electronic Engineering,Computer Science,18
+Electronic Engineering,Electronic Engineering,140
+Electronic Engineering,Electronic Physics,1
+Electronic Engineering,Electronic Computer Engineering,1
+Electronic Engineering,Information Engineering,1
+Electronic Engineering,Control Engineering,1
+Electronic Engineering,Ultrahigh Frequency Engineering,1
+Electronic Engineering,Communication Engineering,3
+Electronic Engineering,Aerospace Engineering,1
+Electronic Engineering,Culture Technology,1
+Electronic Engineering,Industriral and Systems Engineering,1
+Electronic Engineering,Green Transportation,1
+Electronic Engineering,Bio and Brain Engineering,3
+Electronic Engineering,Nanotechnology,1
+Electronic Engineering,EEWS,1
+Electronic Physics,Electrical Engineering,1
+Electronic Materials Science,Electrical Engineering,1
+Electronic Computer Engineering,Electrical Engineering,1
+Electronic Computer Engineering,Computer Science,1
+Electronic Computer Engineering,Green Transportation,1
+Precision Engineering,Mechanical Engineering,2
+Information Engineering,Business Management,1
+Information Engineering,Computer Science,3
+Informatics,Informatics,1
+Informatics,Knowledge Service Engineering,1
+Information and Communications,Mass Communication,1
+Policy,Management Engineering,1
+Policy,Economics,1
+Politics,Business Management,2
+Politics,Economics,1
+Politics,Science  Technology and Policy,1
+Politics,International Relations,1
+Politics,Politics,1
+Politics,Public Administration,1
+Politics,Humanities,1
+Control and Measurement Engineering,Electrical Computer Science,2
+Control and Measurement Engineering,Electrical Engineering,1
+Control and Measurement Engineering,Electronic Computer Science,1
+Control and Measurement Engineering,Electronic Engineering,1
+Control and Measurement Engineering,Control and Measurement Engineering,5
+Control Engineering,Electrical Engineering,1
+Control Engineering,Control Engineering,1
+Marine Engineering,Mechanical Engineering,1
+Marine Engineering,Dynamics,1
+Marine Engineering,Computer Science,1
+Marine Engineering,Marine Engineering,3
+Ocean Engineering,Mechanical Engineering,1
+Ocean Engineering,Ocean Engineering,3
+Ocean Engineering,Aerospace Engineering,1
+Ocean Engineering,Oceanology,1
+Organization Studies,Management Engineering,1
+Organization Studies,Organization Studies,1
+Residential Environmentology,Architecture,1
+Residential Environmentology,Residential Environmentology,1
+Geology,Business Management,1
+Astronomy,Aerospace Engineering,1
+Astrophysics,Physics,1
+Astrophysics,Astrophysics,1
+Philosophy,Science  Technology and Policy,1
+Philosophy,Philosophy,2
+Philosophy,Humanities,1
+Ultrahigh Frequency Engineering,Electrical Engineering,1
+Ultrahigh Frequency Engineering,Ultrahigh Frequency Engineering,1
+Statistics,Management Engineering,2
+Statistics,Finance,1
+Statistics,Mathematics,2
+Statistics,Statistics,4
+Communication Engineering,Semiconductor Engineerirng,1
+Communication Engineering,Electrical Engineering,2
+Communication Engineering,Computer Science,1
+Communication Engineering,Communication Engineering,2
+Aeronautical Engineering,Mechanical Engineering,2
+Aeronautical Engineering,Aeronautical Engineering,14
+Aeronautical Engineering,Aerospace Engineering,7
+Aerospace Engineering,Mechanical Engineering,5
+Aerospace Engineering,Aerospace Engineering,17
+Aerospace Engineering,Technology Management,1
+Aerospace Engineering,Green Transportation,1
+Oceanology,Mechanical Engineering,1
+Oceanology,Physics,1
+Oceanology,Chemistry,1
+Public Administration,Policy,2
+Chemistry,Macromolecular Chemistry,1
+Chemistry,Science History,1
+Chemistry,Physical Chemistry,4
+Chemistry,Analytical Chemistry,1
+Chemistry,Biochemical Engineering,2
+Chemistry,Biophysical Chemistry,1
+Chemistry,Biology,1
+Chemistry,Biochemistry,3
+Chemistry,Materials Science,1
+Chemistry,Electrical Engineering,1
+Chemistry,Chemistry,67
+Chemistry,Bio and Brain Engineering,1
+Chemistry,Nanotechnology,1
+Chemistry,EEWS,4
+Chemical Engineering,Macromolecule Engineering,1
+Chemical Engineering,Macromolecular Science,1
+Chemical Engineering,Mechanical Engineering,2
+Chemical Engineering,Physical Chemistry,1
+Chemical Engineering,Biological Engineering,1
+Chemical Engineering,Biochemical Engineering,21
+Chemical Engineering,Biology,1
+Chemical Engineering,Mathematics,1
+Chemical Engineering,Materials Science,2
+Chemical Engineering,Chemistry,2
+Chemical Engineering,Chemical Engineering,43
+Chemical Engineering,Environment Engineering,1
+Chemical Engineering,EEWS,2
+Chemistry Education,Science Education,1
+Environment Engineering,Civil Engineering,3
+Environment Engineering,Mechanical Engineering,2
+Environment Engineering,Environment Engineering,1
+Environment Engineering,EEWS,1
+Accounting,Management Engineering,3
+Accounting,Business Management,1
+Accounting,Accounting,1
+Accounting,Technology Management,1
+Accounting,Industriral and Systems Engineering,1
+Accounting Information System,Management Engineering,1
+Technology Management,Technology Management,1
